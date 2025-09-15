@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [MemeSpree](https://github.com/Zsombyy/MemeSpree)
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
